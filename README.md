@@ -1,4 +1,4 @@
-- 🌱 hi!
-- 👩‍🏫 I'm an educator and engineer working primarily in TypeScript
+- 👋 hi! i'm marselena 🌱
+- 👩‍🏫 educator and engineer working primarily in TypeScript
 - 🔓 passionate about open source development
 - 📫 get in touch at marselena@proton.me
