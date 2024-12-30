@@ -1,4 +1,3 @@
 - 👋 hi! i'm marselena 🌱
 - 👩‍🏫 educator and engineer working primarily in typescript
 - 🔓 passionate about open source development
-- 📫 get in touch at marselena@proton.me
