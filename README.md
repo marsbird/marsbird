@@ -1,3 +1,3 @@
 - 👋 hi! i'm marselena 🌱
-- 👩‍🏫 educator and engineer working primarily in typescript
-- 🔓 passionate about open source development
+- 👩‍🏫 educator and engineer developing for the web
+- 🔓 passionate about open source
